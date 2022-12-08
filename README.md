@@ -1,2 +1,5 @@
-# -Time-Series-Forecasting-An-Analysis-on-the-financial-market-volatility-in-banking-and-automobile
-Bargain the model that gives the best result in the case of a remarkably high volatility in both industries. 
+# Comparison of GARCH and Data Science Models in Financial Times Series Forecasting: An analysis for the financial market volatility in the banking and automobile industry
+Volatility is commonly used in financial investment to gauge the dispersion of asset returns over time. In statistics, volatility is calculated as either a standard deviation or variance of price returns. Volatility rises as the risk of a financial asset increases. Investors/traders can use such information to distinguish between low-risk and high-risk assets. (Bee Guan , 2021) 
+
+In this paper, we try to compare the performance of GARCH models with data science models by trying to forecast returns of 4 companies. The objective is to find the model that gives the best result in the case of a very high volatility. Indeed, we have chosen to compare the evolution of returns between the German and American markets in 2 different industries, namely: - The banking sector by comparing Deutsche Bank AG (DBK) and Bank of America Corp (BAC) - The automotive industry by comparing BMW and Ford Motors The machine learning models we have chosen to make this comparison are: - GARCH o ARCH, GARCH, GARCH-t, E-GARCH and GJR-GARCH. - Data Science Models o LSTM and Random Forest.
+ 
